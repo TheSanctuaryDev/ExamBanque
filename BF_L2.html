@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ExamWorld</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link href="style.css" rel="stylesheet" />
+  </head>
+  <body class="body">
+    <div class="box">
+      <button id="backBtn" class="btn">
+        <a href="index.html">← Retour a la page precedente</a>
+      </button>
+
+      <h1><a href=".">Liste des matières </a></h1>
+      <label for="search" hidden="hidden">Recherche</label>
+
+      <input
+        id="search_matiere"
+        type="text"
+        class="search"
+        name="fsg_exam_search"
+        placeholder="trouver une matière"
+        autofocus
+      />
+      <ul class="list" id="matiere-list"></ul>
+
+      <hr class="footer-hr" />
+      <p class="footerp">© 2026 The Sanctuary's Devs. All rights reserved.</p>
+    </div>
+    <script src="script9.js"></script>
+  </body>
+</html>
