@@ -4,7 +4,7 @@
     "documents": [
       {"nom": "Exam Module 1 à 4", "lien": "CCNA2 Module 1 à 4_Examen Théorique.pdf"},
       {"nom": "Exam Module 1 à 8 pratique", "lien": "CCNA2 Module 1 à 8_Examen Pratique.pdf"},
-      {"nom": "Exam théorique", "lien": "CCNA2 Module 5 à 8_Examen Théorique.pdf"}
+      {"nom": "Exam théorique 5 à 8", "lien": "CCNA2 Module 5 à 8_Examen Théorique.pdf"}
     ]
   },
   {
@@ -26,3 +26,4 @@
     ]
   }
 ]
+
