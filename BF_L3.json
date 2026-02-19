@@ -1,17 +1,1 @@
-[
-  {
-    "matiere": "Nom de la matiere",
-    "documents": [
-      {"nom": "nom epreuve", "lien": "liens"},
-      {"nom": "nom epreuve", "lien": "liens"},
-      {"nom": "nom epreuve", "lien": "liens"}
-    ]
-  },
-  {
-    "matiere": "Nom de la matiere",
-    "documents": [
-      {"nom": "nom epreuve", "lien": "liens"},
-      {"nom": "nom epreuve", "lien": "liens"}
-    ]
-  }
-]
+
